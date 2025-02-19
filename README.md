@@ -1,5 +1,5 @@
 ﻿# Redis-Implemention-Realtime--Project
-# E-Shopping Cart with Redis Caching
+
 
 ## 📌 Project Overview
 This is a **Node.js & MySQL** based e-commerce backend that integrates **Redis** for caching, session management, and real-time notifications. The system optimizes API responses, reduces database load, and improves user experience with fast data retrieval.
